@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barkeno&show_icons=true&theme=tokyonight)
